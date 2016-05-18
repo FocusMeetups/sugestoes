@@ -4,6 +4,8 @@
 
 # Sugestões
 
+[![Join the chat at https://gitter.im/FocusMeetups/sugestoes](https://badges.gitter.im/FocusMeetups/sugestoes.svg)](https://gitter.im/FocusMeetups/sugestoes?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > Sugestões de temas para Meetups internos da Focusnetworks
 
 ## Propósito e Organização
